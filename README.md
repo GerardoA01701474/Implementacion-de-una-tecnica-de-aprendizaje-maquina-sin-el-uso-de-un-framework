@@ -7,3 +7,10 @@ El dataset usado cuenta con 178 instancias
 params: los 3 parametros que buscamos actualizar --> los que multiplican a las x 
 x: muestras dentro del dataset
 y: salidas esperadas
+
+Al iniciar el programa hará el entrenamiento del modelo
+Para despues proceder al testeo del mismo
+
+Al finalizar se graficarán 2 lineas:
+- Linea azul: error en el entrenamiento
+- Linea naranja: error en el testeo
